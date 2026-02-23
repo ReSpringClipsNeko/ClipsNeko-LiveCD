@@ -17,7 +17,7 @@ plugin=org.kde.plasma.folder
 wallpaperplugin=org.kde.image
 
 [Containments][73][Wallpaper][org.kde.image][General]
-Image=file:///home/zlicdt/Pictures/__shiroi_inu_original_drawn_by_shiratama_shiratamaco__5706c737769549ce0dfc33e3dee99e60_waifu2x_noise0_scale4x.png
+Image=file:///usr/share/wallpapers/clipsneko/_neko.png
 SlidePaths=/usr/share/wallpapers/
 
 [Containments][74]

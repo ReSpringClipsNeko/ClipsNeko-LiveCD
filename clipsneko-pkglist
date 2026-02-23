@@ -1,0 +1,9 @@
+# You have to build and place these packages to /tmp/cnrepo
+# Finally generate repo db by repo-add /tmp/cnrepo/clipsneko.db.tar.zst /tmp/cnrepo/*.pkg.tar.*
+
+klassy
+catppuccin-konsole-theme
+clipsneko-hooks
+clipsneko-wallpapers
+kwin-effect-rounded-corners
+
