@@ -4,7 +4,6 @@ arch-install-scripts
 archinstall
 b43-fwcutter
 base
-bcachefs-tools
 bind
 bolt
 brltty
@@ -69,7 +68,6 @@ mkinitcpio-nfs-utils
 mmc-utils
 modemmanager
 mtools
-nano
 nbd
 ndisc6
 nfs-utils
@@ -126,6 +124,7 @@ xdg-utils
 xfsprogs
 xl2tpd
 zsh
+networkmanager
 plasma
 kde-utilities
 kde-system
@@ -133,3 +132,4 @@ klassy
 kwin-effect-rounded-corners
 noto-fonts-cjk
 clipsneko-hooks
+nvidia
