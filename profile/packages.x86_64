@@ -131,8 +131,9 @@ kde-system
 klassy
 kwin-effect-rounded-corners
 noto-fonts-cjk
+ttf-jetbrains-mono-nerd
 clipsneko-hooks
-nvidia-open-dkms
+nvidia-open
 klassy
 kwin-effect-rounded-corners
 catppuccin-konsole-theme
