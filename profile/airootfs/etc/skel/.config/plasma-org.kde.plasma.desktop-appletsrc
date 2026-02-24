@@ -5,7 +5,7 @@ RightButton;NoModifier=org.kde.contextmenu
 [ActionPlugins][1]
 RightButton;NoModifier=org.kde.contextmenu
 
-[Containments][73]
+[Containments][105]
 ItemGeometries-1707x1067=
 ItemGeometriesHorizontal=
 activityId=6181a810-a439-4276-8735-0e5c41762b5a
@@ -16,7 +16,7 @@ location=0
 plugin=org.kde.plasma.folder
 wallpaperplugin=org.kde.image
 
-[Containments][73][Wallpaper][org.kde.image][General]
+[Containments][105][Wallpaper][org.kde.image][General]
 Image=file:///usr/share/wallpapers/clipsneko/_neko.png
 SlidePaths=/usr/share/wallpapers/
 
