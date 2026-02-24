@@ -17,7 +17,7 @@ plugin=org.kde.plasma.folder
 wallpaperplugin=org.kde.image
 
 [Containments][73][Wallpaper][org.kde.image][General]
-Image=file:///usr/share/wallpapers/clipsneko/_neko.png
+Image=/usr/share/wallpapers/clipsneko/_neko.png
 SlidePaths=/usr/share/wallpapers/
 
 [Containments][74]
