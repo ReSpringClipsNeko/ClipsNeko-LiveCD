@@ -1,6 +1,9 @@
 [Global]
 LookAndFeelSet=org.kde.klassykitelightbottompanel.desktop
-RefreshedConfig=6.5.2
+RefreshedConfig=6.5.3
+
+[ShadowStyle]
+ShadowSize=ShadowSmall
 
 [TitleBarOpacity]
 ActiveTitleBarOpacity=80
@@ -15,7 +18,8 @@ TitleBarTopMargin=7
 
 [Windeco]
 ButtonIconStyle=StyleSuessigKite
-ButtonShape=ShapeFullHeightRoundedRectangle
+ButtonShape=ShapeFullHeightRectangle
+ColorizeWindowOutlineWithButton=false
 MatchTitleBarToApplicationColor=true
 WindowCornerRadius=10
 
