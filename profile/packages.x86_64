@@ -55,9 +55,6 @@ linux-firmware-marvell
 livecd-sounds
 lsscsi
 lvm2
-lynx
-man-db
-man-pages
 mc
 mdadm
 memtest86+
@@ -124,16 +121,12 @@ xfsprogs
 xl2tpd
 zsh
 networkmanager
-noto-fonts-cjk
+wqy-microhei
 ttf-ubuntu-mono-nerd
 clipsneko-hooks
 nvidia-open
-firefox
 clipsneko-wallpapers
 clipsneko-icons
 clipsneko-dotfiles
 btop
 fastfetch
-base-devel
-firefox
-nautilus
