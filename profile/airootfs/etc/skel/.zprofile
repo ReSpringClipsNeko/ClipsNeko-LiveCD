@@ -1,4 +1,4 @@
-exec clipsneko-install-dotfiles
+clipsneko-install-dotfiles -y
 
 if uwsm check may-start && uwsm select; then
     exec uwsm start default
