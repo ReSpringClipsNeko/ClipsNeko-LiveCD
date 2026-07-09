@@ -14,7 +14,7 @@ git clone https://github.com/ReSpringClipsNeko/ClipsNeko-LiveCD
 cd ClipsNeko-LiveCD
 ```
 
-Then setup the local source repository by look at the file [clipsneko-pkglist](./clipsneko-pkglist), find these packages in [our PKGBUILD repo](https://github.com/ReSpringClipsNeko/ClipsNeko-PKGBUILDS), build them and place **all required .pkg.tar.zst** to `/tmp/cnrepo/`, which `mkarchiso` can reach.
+Then setup the local source repository by look at the file [clipsneko-pkglist](./clipsneko-pkglist), find these packages in [our PKGBUILD repo](https://github.com/ReSpringClipsNeko/ClipsNeko-PKGBUILDS), build them and place **all required .pkg.tar.zst** to `/tmp/`, which `mkarchiso` can reach, and add the source to pacman.conf.
 
 Use this command to build from `profile`, output the final image to `~/out` directory, work at `/tmp/clipsneko-tmp` for more efficient...
 ```
