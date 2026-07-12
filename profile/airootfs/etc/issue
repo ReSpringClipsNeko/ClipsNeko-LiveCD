@@ -1,4 +1,5 @@
 \S{PRETTY_NAME} \r (\l)
 
 Login to user `installer` to continue. Press `Enter` to skip waiting when uwsm start.
+Press `SUPER + T` to open terminal, and launch installer with `clipsneko-installer`.
 
